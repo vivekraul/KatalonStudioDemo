@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "9FD256A16C7B9607FA351B40F7DC2D8B",
+  "keywordClasses": [
+    {
+      "name": "hrmlogin.Login",
+      "keywordMethods": [
+        {
+          "name": "Hellomsg",
+          "parameters": [
+            {
+              "name": "v",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "OpenBrowser",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

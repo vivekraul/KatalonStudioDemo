@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admindemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbbb331a-0324-4d26-a437-2a2b871b15d3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a718bea6-6ab9-4494-b708-2d50fefe466b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b85c9100-b758-4d78-8db5-4bc3223fa46f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daf273db-b3f6-4e5e-ad70-bdaf76cfef10</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://admin-demo.nopcommerce.com/'</defaultValue>
+      <description></description>
+      <id>a718bea6-6ab9-4494-b708-2d50fefe466b</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin@yourstore.com'</defaultValue>
+      <description></description>
+      <id>b85c9100-b758-4d78-8db5-4bc3223fa46f</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>daf273db-b3f6-4e5e-ad70-bdaf76cfef10</id>
+      <masked>false</masked>
+      <name>PASSWORD</name>
+   </variable>
+</TestCaseEntity>

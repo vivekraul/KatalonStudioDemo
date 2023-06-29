@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Openhrm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2cbec96-2eb0-45eb-bdd7-8307df19958d</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>d55fc7af-d2dc-49a7-a6e1-05d8b16b3266</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>5d2a851f-c0a0-4841-9b0d-133efcab8ef8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://opensource-demo.orangehrmlive.com/'</defaultValue>
+      <description></description>
+      <id>517c59f3-b8b6-4990-ac94-f27eccea92e4</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
